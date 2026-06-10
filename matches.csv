@@ -1,0 +1,19 @@
+id,season,team1,team2,toss_winner,winner,player_of_match,venue
+1,2008,MI,CSK,CSK,CSK,McCullum,Wankhede
+2,2009,RCB,KKR,RCB,RCB,AB de Villiers,New Wanderers
+3,2010,CSK,MI,MI,CSK,MS Dhoni,Chepauk
+4,2011,RCB,RR,RR,RCB,Chris Gayle,Chinnaswamy
+5,2012,KKR,CSK,CSK,KKR,Sunil Narine,Eden Gardens
+6,2013,MI,CSK,MI,MI,Rohit Sharma,Wankhede
+7,2014,KKR,KXIP,KKR,KKR,Gambhir,Dubai
+8,2015,RCB,SRH,SRH,SRH,Warner,Bangalore
+9,2016,SRH,RCB,RCB,SRH,Ben Cutting,Hyderabad
+10,2017,MI,GL,GL,MI,Hardik Pandya,Rajkot
+11,2018,CSK,SRH,CSK,CSK,Watson,Wankhede
+12,2019,CSK,MI,MI,MI,Pollard,Chepauk
+13,2020,MI,DC,DC,MI,Ishan Kishan,Dubai
+14,2021,CSK,KKR,KKR,CSK,Faf du Plessis,Ahmedabad
+15,2022,GT,RR,RR,GT,Hardik Pandya,Pune
+16,2023,GT,CSK,CSK,CSK,Ruturaj Gaikwad,Ahmedabad
+17,2024,MI,RCB,RCB,MI,Virat Kohli,Mumbai
+18,2025,CSK,SRH,SRH,CSK,Jadeja,Chennai
