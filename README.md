@@ -104,4 +104,3 @@ Author
 
 Praneet Katkar
 
-B.Sc. Information Technology
